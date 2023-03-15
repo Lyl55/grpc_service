@@ -1,0 +1,1 @@
+Mikroservis arxitekturası ilə hazırlanmış bir tətbiqdə xidmətlər arasında bütün sinxron əlaqə üçün gRPC-dən istifadə edə bilərik. Beləliklə, biz gRPC-nin bütün üstünlüklərindən istifadə etməklə sürətli və çevik daxili kommunikasiya infrastrukturunu təmin edə bilərik.
