@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NotifyCustomerClient
+build_property.ProjectDir = C:\Users\user\Source\Repos\gRPC-service-and-client-net-core\NotifyCustomerClient\

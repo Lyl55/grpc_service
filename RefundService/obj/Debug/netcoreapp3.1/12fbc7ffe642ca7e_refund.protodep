@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Refund.cs \
+obj\Debug\netcoreapp3.1/RefundGrpc.cs: Protos/refund.proto
